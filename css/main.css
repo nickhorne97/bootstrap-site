@@ -1,0 +1,66 @@
+body {
+  background-color: #8CFF70;
+  font-family: "Raleway", Tahoma, Verdana, sans-serif;
+}
+
+footer {
+
+background-color: #E8E3B6;
+text-align: center;
+border-style: ridge;
+
+
+}
+
+.iconic:hover{
+
+  background-color: #B4C2E8;
+}
+
+h1, h2 {
+
+font-family: "Bitter", Georgia, Times, serif;
+text-align: center;
+background-color: #E8E3B6;
+text-shadow: 2px 2px white;
+border-style: ridge;
+}
+
+p {
+  font-family:"Raleway", Tahoma, Verdana, sans-serif;
+
+
+}
+
+
+
+#home:hover{
+
+  color: darkgray;
+}
+
+#home{
+  color: black;
+}
+
+
+#help:hover{
+
+  color: darkgray;
+}
+
+#help{
+
+  color: black;
+}
+
+
+#contact:hover{
+
+color: darkgray;
+}
+
+#contact{
+
+  color: black;
+}
